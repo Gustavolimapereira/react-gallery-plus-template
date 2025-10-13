@@ -7,7 +7,7 @@ import Badge from "../components/badge";
 import Button from "../components/button";
 import ButtonIcon from "../components/button-icon";
 import Divider from "../components/divider";
-import ImageFilePreview from "../components/image-file-preview";
+import ImageFilePreview from "../components/image-preview";
 import InputCheckbox from "../components/input-checkbox";
 import InputSingleFile from "../components/input-single-file";
 import InputText from "../components/input-text";
